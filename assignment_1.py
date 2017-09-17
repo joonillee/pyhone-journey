@@ -1,4 +1,4 @@
-# ICT4370 Assignment #1 Joon Lee
+# Joon Lee
 # My mentality here was to write simple code as possible, not sure if I achieved but here it is.
 # I was able to ask users questions for desired answers to print once all questions are answered
 
