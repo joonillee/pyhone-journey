@@ -36,3 +36,11 @@ print ("Earnings/Loss to-date: $" + price_2)
 
 # Overall, this was not as simple as I originally thought but definately challenged me to think,try until it works
 # not happy that I spent many hours on this but at least, learn few tricks along the way
+
+
+# The desired out come is as follow: 
+
+#APPLE: 40 Shares
+#Purchase Price: 80.65
+#Current Price per Share: 124.30
+#Earnings/Loss to-date: $1746
