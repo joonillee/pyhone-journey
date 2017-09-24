@@ -44,3 +44,13 @@ print ("Earnings/Loss to-date: $" + price_2)
 #Purchase Price: 80.65
 #Current Price per Share: 124.30
 #Earnings/Loss to-date: $1746
+
+# THis will print out the following in python3
+'''
+Stock ownership for Bob Smith
+----------------------------------------------------
+GOOGL: 125 shares
+Purchase Price: 772.88
+Current Price per Share: 941.53
+'''
+Earnings/Loss to-date: $21081.25
