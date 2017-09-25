@@ -1,4 +1,22 @@
-#ICT4370 Week 2 Assignment 2 Joon Lee 9/24/2017
+'''
+with using data No_of_shares, Purchase_Price, Current_Value data, running this code will generate following
+
+STOCK                        SHARE#                              EARNINGS/LOSS
+
+--------------------------------------------------------------------------------------------------
+
+GOOGL                            125                                           $21026.25
+
+MSFT                                 85                                           $1397.4
+
+RDS-A                              400                                           $2464
+
+AIG                                   235                                          $3599.1
+
+FB                                    150                                            $7221
+
+'''
+
 
 #reading data to lists
 Stock_Symbols = ['GOOGL', 'MSFT ', 'RDS-A', 'AIG  ', 'FB   ']
@@ -24,3 +42,6 @@ print ("----------------------------------------")
 print ("STOCK       SHARE#       EARNINGS/LOSS")
 for i in range(len(Stock_Symbols)):
     print ('{}       {}       ${}'.format(Stock_Symbols[i], No_of_shares[i],GAIN_or_LOSS[i]))
+
+    
+    
