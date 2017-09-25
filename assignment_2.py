@@ -41,7 +41,7 @@ print ("Stock ownership for Joon Lee")
 print ("----------------------------------------")
 print ("STOCK       SHARE#       EARNINGS/LOSS")
 for i in range(len(Stock_Symbols)):
-    print ('{}       {}       ${}'.format(Stock_Symbols[i], No_of_shares[i],round(GAIN_or_LOSS[i])))
+    print ('{}       {}       ${}'.format(Stock_Symbols[i], No_of_shares[i],round(GAIN_or_LOSS[i],2)))
 
     
     
